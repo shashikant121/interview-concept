@@ -6,6 +6,7 @@ const anagram = (str1, str2) => {
   return false;
 };
 
+
 console.log(anagram("ram", "mara"))
 */
 
